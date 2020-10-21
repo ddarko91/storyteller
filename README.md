@@ -1,2 +1,2 @@
-# storyteller
-Storyteller - Laravel project (Many to Many relationship)
+# Storyteller
+Storyteller - Laravel project with Many to Many relationship.
